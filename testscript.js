@@ -1,7 +1,7 @@
 class AsyncExtension {
     getInfo() {
         return {
-            id: '5X4mTi6Jrjlj5GIdF8E1wjHKk7EZqP3x',
+            id: GOOGLEAPIKEY,
             name: 'ManuAI 1',
             blocks: [
                 {
